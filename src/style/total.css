@@ -1,0 +1,35 @@
+.score{
+    height: 180px;
+    width: 180px;
+    display: flex;
+    border: 1px solid black;
+    background-color: rgb(220, 20, 53);
+    justify-content: center;
+    /* overflow: hidden; */
+    align-items: center;
+    flex-direction: column;
+    font-size: 20px;
+}
+.h1{ 
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    /* font-size:100px; */
+    /* border: 1px solid black; */
+    /* padding-top: 30px; */
+    height: 110px;
+}
+
+.h1>h1>span{
+    margin-left: 15px;
+    font-size: 100px;
+}
+h1{
+    font-size: 20px;
+}
+
+.score{
+
+    font-weight:600;
+}

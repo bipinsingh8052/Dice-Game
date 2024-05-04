@@ -1,0 +1,19 @@
+.Show{
+ 
+ 
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+img{
+    height: 200px;
+    width: 200px;
+    border-radius: 10px;
+}
+button{
+    height: 30px;
+    width: 100px;
+    margin: 4px;
+   
+}
